@@ -7,10 +7,9 @@
 
 🌱 **Currently Learning:**
 
-* Advanced MERN Stack (React, Node.js, Express.js, MongoDB)
+* MERN Stack (React, Node.js, Express.js, MongoDB)
 * Data Structures & Algorithms (C++)
 * Core Computer Science Subjects (OS, DBMS, CN)
-
 * Git, GitHub & Open Source Collaboration
 
 🤝 **Looking to Collaborate On:**

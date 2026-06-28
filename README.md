@@ -10,7 +10,7 @@
 * Advanced MERN Stack (React, Node.js, Express.js, MongoDB)
 * Data Structures & Algorithms (C++)
 * Core Computer Science Subjects (OS, DBMS, CN)
-* REST APIs, Authentication & Backend Development
+
 * Git, GitHub & Open Source Collaboration
 
 🤝 **Looking to Collaborate On:**
@@ -51,9 +51,9 @@ I enjoy turning real-world ideas into web applications and continuously learning
 
 ## 🌐 Connect With Me
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:YOUR_EMAIL)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:ashutoshgupta2703@gmail.com)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](YOUR_LINKEDIN_LINK)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/ashutosh-kumar-gupta-919ba4321/)
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/ashutoshgupta2703)
 
